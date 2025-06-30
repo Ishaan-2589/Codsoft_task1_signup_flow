@@ -16,7 +16,6 @@ This project is created as part of the **CodSoft UI/UX Design Internship**. It f
 ## ✨ Features
 
 - 📱 Responsive signup form (Full Name, Email, Password)
-- ✅ Checkbox for Terms & Conditions (cleanly aligned)
 - 🎨 Animated multi-color gradient background
 - 💻 Floating icons of smart devices (laptop, mobile, tablet)
 - 🧊 Glass-effect form container with visible border
